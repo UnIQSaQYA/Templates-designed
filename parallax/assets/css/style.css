@@ -1,0 +1,36 @@
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }	
+
+  .feature-icon {
+  	border-radius: 100%;
+  	border:3px solid #009688;
+  	text-align: center;
+  	margin: 70px auto 0;
+  	height: 100px;
+  	width: 100px;
+  }
+
+ .feature-icon i {
+    color: #009688;
+    font-size: 50px;
+    line-height: 96px;
+}
+
+.feature-title {
+    padding-top: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.feature-description {
+    padding-top: 10px;
+    text-align: center;
+    color: #6c747f;
+}
